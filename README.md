@@ -14,6 +14,8 @@ An IOS app designed to easily see a restaurant's different scores from various s
 Reviewgregator aims to save users time when searching for restaurant reviews by aggregating ratings from Google and Yelp into one single rating. This app was inspired by the constant need of wanting to see all ratings in one place when exploring new places to eat. The app uses the user's current location to display restaurants nearby.
 ## Video Tutorial
 
+[Click Me](https://cj-key.github.io/reviewgregator_app/)
+
 ## Technologies Used
 Reviewgregator is built with:
 - **Xcode**: The official integrated development environment for developing iOS apps.
